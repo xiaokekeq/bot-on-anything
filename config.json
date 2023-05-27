@@ -3,7 +3,7 @@
     "type" : "chatgpt",
     "openai": {
       "api_key": "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",
-      "api_base": "https://railway.app/project/d443280a-0613-42a3-846f-32592c63144f/service/e09279aa-bf87-49e9-afc5-8fd049789a0b?id=68d43572-e605-43b6-a758-22056f9d94a4",
+      "api_base": "curl -fsSL https://railway.app/install.sh | sh",
       "model": "gpt-3.5-turbo",
       "proxy": "",
       "conversation_max_tokens": 1000,
