@@ -3,9 +3,8 @@
     "type" : "chatgpt",
     "openai": {
       "api_key": "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",
-      "api_base": "https://railway.app/install.sh",
       "model": "gpt-3.5-turbo",
-      "proxy": "",
+      "proxy": "https://railway.app/railway.schema.json",
       "conversation_max_tokens": 1000,
       "temperature":0.75,
       "top_p":0.7,
